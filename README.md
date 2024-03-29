@@ -12,3 +12,7 @@ Entregables:
 3. Descripción de las funciones utilizadas.
 4. Código del módulo utilizado para el desarrollo de la práctica.
 5. Vídeo que contenga la simulación en EPSON
+
+![image](https://github.com/alejo9812/Lab2_Robotica/assets/68829051/4c2c34ce-93d8-4219-a143-acb7798be486)
+
+
