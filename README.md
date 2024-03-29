@@ -8,10 +8,9 @@ Se plantea realizar una secuncia dede la empresa EPSON en el robot SCARA T6, rea
 Entregables:
 
 1. README_ Descripción de la solución planteada.
-2. Plano de planta de la ubicación de cada uno de los elementos.
-3. Descripción de las funciones utilizadas.
-4. Código del módulo utilizado para el desarrollo de la práctica.
-5. Vídeo que contenga la simulación en EPSON
+2. Descripción de las funciones utilizadas.
+3. Código del módulo utilizado para el desarrollo de la práctica.
+4. Vídeo que contenga la simulación en EPSON
 
 ![image](https://github.com/alejo9812/Lab2_Robotica/assets/68829051/4c2c34ce-93d8-4219-a143-acb7798be486)
 
